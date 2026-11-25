@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.db
+.venv/
+
+# Node / Vite
+node_modules/
+dist/
+*.local
+
+# IDE / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 测试临时文件
+test_*.json
